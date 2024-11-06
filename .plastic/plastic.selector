@@ -1,0 +1,4 @@
+repository "ball_game@gamefi_crypto@cloud"
+  path "/"
+    br "/main"
+    co "/main"
